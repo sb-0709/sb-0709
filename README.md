@@ -3,7 +3,7 @@
 - 👋 I’m Sanskriti Bansal, CSE undergraduate student at Vellore Institute of Technology, Vellore 👩🏻‍🎓
 - 🌟 I’m interested in learning, developing and researching
 - 🍀 I’m looking to collaborate on some projects where I can learn and develop my skills
-- 🌸 My aim is to make productive use of my knowledge and skills and develop myself as a better person by each passing day💙
+- 🌸 My aim is to make productive use of my knowledge and skills and develop myself as a better person by each passing day
 - 📫 Reach me out on <a href= https://www.linkedin.com/in/sanskriti-bansal-97aa30217/>Linkedin <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA4QG3aTZRaqY1Q5MzX9j-XWuYVm0tX9tP2Q&usqp=CAU" width="20px"></a>
 
 <!---🌱 I’m currently learning .... 

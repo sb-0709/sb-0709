@@ -1,6 +1,6 @@
 # Hi there everyone! <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="30px">
 
-- 👋 I’m Sanskriti Bansal, CSE undergraduate student at Vellore Institute of Technology, Vellore 👩🏻‍🎓
+- 🎓 I’m Sanskriti Bansal, CSE undergraduate student at Vellore Institute of Technology, Vellore 👩🏻‍🎓
 - 🌟 I’m interested in learning, developing and researching
 - 🍀 I’m looking to collaborate on some projects where I can learn and develop my skills
 - 🌸 My aim is to make productive use of my knowledge and skills and develop myself as a better person by each passing day

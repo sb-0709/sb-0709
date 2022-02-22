@@ -6,7 +6,7 @@
 - 🌸 My aim is to make productive use of my knowledge and skills and develop myself as a better person by each passing day
 - 📫 Reach me out on <a href= "https://www.linkedin.com/in/sanskriti-bansal-97aa30217/">Linkedin <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA4QG3aTZRaqY1Q5MzX9j-XWuYVm0tX9tP2Q&usqp=CAU" width="20px"></a>
 
-
+<!---
 # Technologies and Tools 🧰
 ![](https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=white&color=03355e)  ![](https://img.shields.io/badge/html5-informational?style=for-the-badge&logo=html5&logoColor=white&color=c22404)  ![](https://img.shields.io/badge/css3-informational?style=for-the-badge&logo=css3&logoColor=white&color=0088ff)  ![](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=black)  ![](https://img.shields.io/badge/c-informational?style=for-the-badge&logo=c&logoColor=white&color=black)  ![](https://img.shields.io/badge/MySql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=066106)  ![](https://img.shields.io/badge/R-informational?style=for-the-badge&logo=R&logoColor=white&color=035ba3)
 

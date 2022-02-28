@@ -6,7 +6,7 @@
 - 🌸 My aim is to make productive use of my knowledge and skills and develop myself as a better person by each passing day
 - 📫 Reach me out on <a href= "https://www.linkedin.com/in/sanskriti-bansal-97aa30217/">Linkedin <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA4QG3aTZRaqY1Q5MzX9j-XWuYVm0tX9tP2Q&usqp=CAU" width="20px"></a>
 
-
+<!--
 # Technologies and Tools 🧰
 ![](https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=white&color=03355e)  ![](https://img.shields.io/badge/html5-informational?style=for-the-badge&logo=html5&logoColor=white&color=c22404)  ![](https://img.shields.io/badge/css3-informational?style=for-the-badge&logo=css3&logoColor=white&color=0088ff)  ![](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=black)  ![](https://img.shields.io/badge/c-informational?style=for-the-badge&logo=c&logoColor=white&color=black)  ![](https://img.shields.io/badge/MySql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=066106)  ![](https://img.shields.io/badge/R-informational?style=for-the-badge&logo=R&logoColor=white&color=035ba3)
 
@@ -31,7 +31,7 @@
 <a href="https://www.hackerearth.com/@sanskriti.bansal2020"><img src= "https://camo.githubusercontent.com/0d8e111fa2d1f1743ca909becc6448691f0d2ee3935a2d3ad82d260f0b046311/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65382f4861636b657245617274685f6c6f676f2e706e67" title="hackerEarth" width="40px" hspace="15"></img></a>
 <a href="https://www.codechef.com/users/sans0721"><img src="https://icons-for-free.com/iconfiles/png/512/codechef-1324440139527402917.png" title="codechef" width="40px" hspace="15"></img></a>
 <a href="https://leetcode.com/sanskriti_b_711/"><img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" title="leetcode" width="40px" hspace="15"></img></a>
-
+-->
 
 
 <!---🌱 I’m currently learning .... 

@@ -1,3 +1,4 @@
+<!--
 # Hi there everyone! <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" height="32px">
 
 - 🎓 I’m Sanskriti Bansal, CSE undergraduate student at Vellore Institute of Technology, Vellore 👩🏻‍🎓

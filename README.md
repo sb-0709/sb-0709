@@ -9,18 +9,27 @@
 
 # Technologies and Tools 🧰
 ![](https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=white&color=03355e)  ![](https://img.shields.io/badge/html5-informational?style=for-the-badge&logo=html5&logoColor=white&color=c22404)  ![](https://img.shields.io/badge/css3-informational?style=for-the-badge&logo=css3&logoColor=white&color=0088ff)  ![](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=black)  ![](https://img.shields.io/badge/c-informational?style=for-the-badge&logo=c&logoColor=white&color=black)  ![](https://img.shields.io/badge/Oracle-informational?style=for-the-badge&logo=Oracle&logoColor=white&color=f5430c)  ![](https://img.shields.io/badge/R-informational?style=for-the-badge&logo=R&logoColor=white&color=035ba3)  ![](https://img.shields.io/badge/mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=066106)  ![](https://img.shields.io/badge/java-informational?style=for-the-badge&logo=java&logoColor=white&color=fc6f03) ![](https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=yellow) ![](https://img.shields.io/badge/dosbox-informational?style=for-the-badge&logo=DOSBox&logoColor=white&color=black) ![](https://img.shields.io/badge/star_UML-informational?style=for-the-badge&logo=staruml&logoColor=white&color=purple) ![](https://img.shields.io/badge/cisco_packet_tracer-informational?style=for-the-badge&logo=cisco_packet_tracer&logoColor=white&color=green) ![](https://img.shields.io/badge/machine_learning-informational?style=for-the-badge&logo=machine_learning&logoColor=white&color=eba91c) ![](https://img.shields.io/badge/canva-informational?style=for-the-badge&logo=canva&logoColor=white&color=f5582c) ![](https://img.shields.io/badge/pyqt5-informational?style=for-the-badge&logo=pyqt&logoColor=white&color=0e8c79) ![](https://img.shields.io/badge/qgis-informational?style=for-the-badge&logo=qgis&logoColor=white&color=03a609) ![](https://img.shields.io/badge/qtdesigner-informational?style=for-the-badge&logo=qtdesigner&logoColor=white&color=08c4c7) ![](https://img.shields.io/badge/json-informational?style=for-the-badge&logo=json&logoColor=white&color=c70808)  ![](https://img.shields.io/badge/Information_Security-informational?style=for-the-badge&logo=information_security&logoColor=white&color=0279cf) ![](https://img.shields.io/badge/scss-informational?style=for-the-badge&logo=scss&logoColor=white&color=e002b4) 
-<!---
-# GitHub Stats 📈
-<!--![Sanskriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=sb-0709&show_icons=true&theme=radical)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sb-0709&layout=compact&theme=radical)](https://github.com/sb-0709/github-readme-stats)
+# GitHub Stats 📈
+<!--
+![Sanskriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=sb-0709&show_icons=true&theme=radical)  
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sb-0709&layout=compact&theme=radical)](https://github.com/sb-0709/github-readme-stats) 
 
 <!--
+<div style="display: flex; flex-direction: row;">
+ <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=sb-0709&show_icons=true&theme=radical" />
+ <img img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sb-0709&layout=compact&theme=radical" />
+</div>
+-->
+
 ## GitHub Contributions
 [![Sanskriti's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sb-0709&theme=dark)](https://git.io/streak-stats)
 
-[![Sanskriti's github activity graph](https://activity-graph.herokuapp.com/graph?username=sb-0709&theme=react-dark)](https://github.com/sb-0709/github-readme-activity-graph)
---->
+<!--
+![Sanskriti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sb-0709&bg_color=151414&color=ffffff&line=eeff00&point=db2c00&area=true&hide_border=true)
+-->
+
 # To Connect  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-WrIA8qT2Phexu7QUoBxEL4WOMRD3-DEG511ix8rVNF78uSA6E9NQYsqaeBwIHd7ij94&usqp=CAU" width="30px"></img>
 
 <a href="https://www.instagram.com/sanskriti_0721/?hl=en"><img src="https://user-images.githubusercontent.com/76274143/155100506-428f8a14-f55e-488f-b59c-104a94828913.png" title="instagram" width="40px" hspace="15"></img></a>

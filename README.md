@@ -1,9 +1,9 @@
 # Hi there everyone! <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" height="32px">
 
-- 🎓 I’m Sanskriti Bansal, CSE undergraduate student at Vellore Institute of Technology, Vellore 👩🏻‍🎓
-- 🌟 I’m interested in learning, developing and researching
-- 🍀 I’m looking to collaborate on some projects where I can learn and develop my skills
-- 🌸 My aim is to make productive use of my knowledge and skills and develop myself as a better person by each passing day
+- 🌸I’m Sanskriti Bansal, Software Engineer at Fareportal India Pvt. Ltd.
+- 🎓 I did my BTech in CSE from Vellore Institute of Technology, Vellore 👩🏻‍🎓
+- 🌟 I’m interested in learning, developing, researching and collaborating on projects where I can use and develop my skills
+- 🍀 My aim is to make productive use of my knowledge and develop myself as a better person by each passing day
 - 📫 Reach me out on <a href= "https://www.linkedin.com/in/sanskriti-bansal-97aa30217/">Linkedin <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA4QG3aTZRaqY1Q5MzX9j-XWuYVm0tX9tP2Q&usqp=CAU" width="20px"></a>
 
 

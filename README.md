@@ -1,4 +1,4 @@
-# Hi there everyone! <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" height="32px">
+# Hi There Everyone! <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" height="32px">
 
 - 🌸 I’m Sanskriti Bansal, Master of Science in Computer Science student at Columbia University, specializing in Machine Learning!
 - 🎓 I did my BTech in CSE from Vellore Institute of Technology, Vellore 👩🏻‍🎓

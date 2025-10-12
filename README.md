@@ -1,6 +1,6 @@
 # Hi There Everyone! <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" height="32px">
 
-- 🌸 I’m Sanskriti Bansal, Master of Science in Computer Science student at Columbia University, specializing in Machine Learning!
+- 🌸 I’m Sanskriti Bansal, Master of Science in Computer Science (ML Track) student at Columbia University!
 - 🎓 I did my BTech in CSE from Vellore Institute of Technology, Vellore 👩🏻‍🎓
 - 🌟 I’m interested in learning, developing, researching and collaborating on projects where I can use and develop my skills
 - 🍀 My aim is to make productive use of my knowledge and develop myself as a better person by each passing day

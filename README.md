@@ -38,7 +38,7 @@
 -->
 
 ## GitHub Contributions
-[![Sanskriti's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sb-0709&theme=dark)](https://git.io/streak-stats)
+[![Sanskriti's GitHub Streak](https://streak-stats.demolab.com/?user=sb-0709&theme=dark)](https://git.io/streak-stats)
 
 <!--
 ![Sanskriti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sb-0709&bg_color=151414&color=ffffff&line=eeff00&point=db2c00&area=true&hide_border=true)

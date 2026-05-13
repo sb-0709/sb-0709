@@ -1,72 +1,47 @@
-# Hi There Everyone! <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" height="32px">
+<div align="center">
 
-- 🌸 I’m Sanskriti Bansal, Master of Science in Computer Science (ML Track) student at Columbia University!
-- 🎓 I did my BTech in CSE from Vellore Institute of Technology, Vellore 👩🏻‍🎓
-- 🌟 I’m interested in learning, developing, researching and collaborating on projects where I can use and develop my skills
-- 🍀 My aim is to make productive use of my knowledge and develop myself as a better person by each passing day
-- 📫 Reach me out on <a href= "https://www.linkedin.com/in/sanskriti-bansal-97aa30217/">Linkedin <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA4QG3aTZRaqY1Q5MzX9j-XWuYVm0tX9tP2Q&usqp=CAU" width="20px"></a>
+## Hi, I'm Sanskriti Bansal 👋
 
+**MS Computer Science (ML Track) · Columbia University · New York**
 
-# Technologies and Tools 🧰
-![](https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=white&color=03355e)  ![](https://img.shields.io/badge/html5-informational?style=for-the-badge&logo=html5&logoColor=white&color=c22404)  ![](https://img.shields.io/badge/css3-informational?style=for-the-badge&logo=css3&logoColor=white&color=0088ff)  ![](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=black)  ![](https://img.shields.io/badge/c-informational?style=for-the-badge&logo=c&logoColor=white&color=black)  ![](https://img.shields.io/badge/Oracle-informational?style=for-the-badge&logo=Oracle&logoColor=white&color=f5430c)  ![](https://img.shields.io/badge/R-informational?style=for-the-badge&logo=R&logoColor=white&color=035ba3)  ![](https://img.shields.io/badge/mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=066106)  ![](https://img.shields.io/badge/java-informational?style=for-the-badge&logo=java&logoColor=white&color=fc6f03)  ![](https://img.shields.io/badge/C_sharp-informational?style=for-the-badge&logo=C_sharp&logoColor=white&color=6304cf)  ![](https://img.shields.io/badge/javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=yellow) 
-![](https://img.shields.io/badge/dosbox-informational?style=for-the-badge&logo=DOSBox&logoColor=white&color=black) 
-![](https://img.shields.io/badge/star_UML-informational?style=for-the-badge&logo=staruml&logoColor=white&color=purple) 
-![](https://img.shields.io/badge/cisco_packet_tracer-informational?style=for-the-badge&logo=cisco_packet_tracer&logoColor=white&color=green) 
-![](https://img.shields.io/badge/machine_learning-informational?style=for-the-badge&logo=machine_learning&logoColor=white&color=eba91c) 
-![](https://img.shields.io/badge/canva-informational?style=for-the-badge&logo=canva&logoColor=white&color=f5582c) 
-![](https://img.shields.io/badge/pyqt5-informational?style=for-the-badge&logo=pyqt&logoColor=white&color=e602e6) 
-![](https://img.shields.io/badge/qgis-informational?style=for-the-badge&logo=qgis&logoColor=white&color=03a609) 
-![](https://img.shields.io/badge/qtdesigner-informational?style=for-the-badge&logo=qtdesigner&logoColor=white&color=08c4c7)  ![](https://img.shields.io/badge/json-informational?style=for-the-badge&logo=json&logoColor=white&color=c70808)  ![](https://img.shields.io/badge/Information_Security-informational?style=for-the-badge&logo=information_security&logoColor=white&color=0279cf) 
-![](https://img.shields.io/badge/scss-informational?style=for-the-badge&logo=scss&logoColor=white&color=e002b4) 
-![](https://img.shields.io/badge/figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=731302) 
-![](https://img.shields.io/badge/React.js-informational?style=for-the-badge&logo=React.js&logoColor=white&color=04cf0b)
-![](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=Node.js&logoColor=white&color=cf1f04)
-![](https://img.shields.io/badge/ASP.net-informational?style=for-the-badge&logo=ASP.net&logoColor=white&color=f0e224)
-![](https://img.shields.io/badge/Tableau-informational?style=for-the-badge&logo=Tableau&logoColor=white&color=04c1cf)
+I build things at the intersection of **machine learning** and **software engineering** —
+from medical image segmentation models to malware detectors to full-stack apps.
+Always shipping, always learning.
 
-# GitHub Stats 📈
-<!--
-![Sanskriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=sb-0709&show_icons=true&theme=radical)  
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sb-0709&layout=compact&theme=radical)](https://github.com/sb-0709/github-readme-stats) 
+![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=033558)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-informational?style=flat&color=1D9E75)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-informational?style=flat&color=185FA5)
+![PyTorch](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C)
+![React](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=61DAFB&color=20232a)
+![Java](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=fc6f03)
+![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=cplusplus&logoColor=white&color=black)
+![SQL](https://img.shields.io/badge/SQL-informational?style=flat&logo=mysql&logoColor=white&color=3a6b35)
 
-<!--
-<div style="display: flex; flex-direction: row;">
- <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=sb-0709&show_icons=true&theme=radical" />
- <img img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sb-0709&layout=compact&theme=radical" />
+---
+
 </div>
--->
 
-## GitHub Contributions
-[![Sanskriti's GitHub Streak](https://streak-stats.demolab.com/?user=sb-0709&theme=dark)](https://git.io/streak-stats)
+## 🔧 Featured projects
 
-<!--
-![Sanskriti's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sb-0709&bg_color=151414&color=ffffff&line=eeff00&point=db2c00&area=true&hide_border=true)
--->
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Cross-Domain Medical Segmentation](https://github.com/sb-0709/Cross-Domain-Generalization-in-Medical-Image-Segmentation) | Generalization research for medical image segmentation across unseen domains | Python · Deep Learning |
+| [Malware Detection Model](https://github.com/sb-0709/Malware-Detection-Model) | ML-based malware classifier trained on behavioral features | Jupyter · Sklearn |
+| [Formly — AI Gym Coach](https://github.com/LogicalVerse/Formly-AI-Gym-Bro) | Android app using computer vision to analyze workout form in real time | Kotlin · AI |
+| [Flight Booking App](https://github.com/sb-0709/Flight-Booking-App) | Full-stack flight booking system with seat selection & reservations | C# · .NET |
 
-# To Connect  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-WrIA8qT2Phexu7QUoBxEL4WOMRD3-DEG511ix8rVNF78uSA6E9NQYsqaeBwIHd7ij94&usqp=CAU" width="30px"></img>
+---
 
-<a href="https://www.instagram.com/sanskriti_0721/?hl=en"><img src="https://user-images.githubusercontent.com/76274143/155100506-428f8a14-f55e-488f-b59c-104a94828913.png" title="instagram" width="40px" hspace="15"></img></a>
-<a href="https://www.linkedin.com/in/sanskriti-bansal-97aa30217/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" title="linkedin" width="40px" hspace="15"></img></a>
-<a href="mailto:sanskritibansal007@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" title="gmail" width="40px" hspace="15"></img></a>
-<a href="https://medium.com/@sanskritibansal007"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111543.png" title="medium" width="40px" hspace="15"></img></a>
-<!--
-<a href=""><img src="https://www.genengnews.com/wp-content/uploads/2019/03/BestApps_ResearchGate.jpg" title="ResearchGate" width="40px" hspace="15"></img></a>
-<a href="https://www.hackerrank.com/sanskriti_bansa1"><img src="https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/e3/05/1b/e3051b03-d132-df20-c4be-980616c45b02/source/1200x630bb.jpg" title="hackerrank" width="40px" hspace="15"></img></a>
-<a href="https://www.hackerearth.com/@sanskriti.bansal2020"><img src= "https://camo.githubusercontent.com/0d8e111fa2d1f1743ca909becc6448691f0d2ee3935a2d3ad82d260f0b046311/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65382f4861636b657245617274685f6c6f676f2e706e67" title="hackerEarth" width="40px" hspace="15"></img></a>
-<a href="https://www.codechef.com/users/sans0721"><img src="https://icons-for-free.com/iconfiles/png/512/codechef-1324440139527402917.png" title="codechef" width="40px" hspace="15"></img></a>
-<a href="https://leetcode.com/sanskriti_b_711/"><img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" title="leetcode" width="40px" hspace="15"></img></a>
--->
+## 📊 GitHub stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sb-0709&layout=compact&theme=default&hide_border=true)](https://github.com/sb-0709/github-readme-stats)
 
-<!---🌱 I’m currently learning .... 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sb-0709&theme=default&hide_border=true)](https://git.io/streak-stats)
 
-[![Sanskriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=sb-0709)](https://github.com/sb-0709/github-readme-stats)
+---
 
-if I wanna hide some content in the stats.....
-![Sanskriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=sb-0709&hide=contribs,prs)
---->
+## 📬 Let's connect
 
-<!---
-sb-0709/sb-0709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanskriti_Bansal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanskriti-bansal-97aa30217/)
+[![Email](https://img.shields.io/badge/Email-sanskritibansal007@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:sanskritibansal007@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-@sanskritibansal007-black?style=flat&logo=medium)](https://medium.com/@sanskritibansal007)

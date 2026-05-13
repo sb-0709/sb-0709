@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0A3D62,1565A0,1A7BB5&height=200&section=header&text=Hi%2C%20I'm%20Sanskriti%20Bansal%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=MS%20CS%20(ML%20Track)%20%C2%B7%20Columbia%20University%20%C2%B7%20New%20York&descAlignY=58&descSize=16&descColor=a8d4f5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1565A0&height=200&section=header&text=Hi%2C%20I'm%20Sanskriti%20Bansal%20%F0%9F%91%8B&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=MS%20CS%20(ML%20Track)%20%C2%B7%20Columbia%20University%20%C2%B7%20New%20York&descAlignY=58&descSize=16&descColor=a8d4f5)
 
 *I build things at the intersection of **machine learning** and **software engineering** —*
 *from medical image segmentation research to malware detectors to full-stack apps.*
@@ -71,11 +71,11 @@
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sb-0709&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/sb-0709)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sb-0709&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sb-0709&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=sb-0709&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sb-0709&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/sb-0709)
+<img src="https://github-readme-stats.vercel.app/api?username=sb-0709&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 </div>
 
@@ -91,4 +91,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0A3D62,1565A0,1A7BB5&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=1565A0&height=100&section=footer)

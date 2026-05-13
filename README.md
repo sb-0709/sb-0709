@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=1565A0&height=200&section=header&text=Sanskriti%20Bansal%20%F0%9F%91%8B&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20|%20MS%20CS%20(ML%20Track)%20@%20Columbia%20University&descAlignY=58&descSize=16&descColor=a8d4f5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=024796&height=200&section=header&text=Sanskriti%20Bansal%20%F0%9F%91%8B&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20|%20MS%20CS%20(ML%20Track)%20@%20Columbia%20University&descAlignY=58&descSize=16&descColor=a8d4f5)
 
 I enjoy building at the intersection of **machine learning** and **software engineering**.
 

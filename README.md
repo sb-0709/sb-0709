@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=Hi%2C%20I'm%20Sanskriti%20Bansal%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=MS%20CS%20(ML%20Track)%20%C2%B7%20Columbia%20University%20%C2%B7%20New%20York&descAlignY=58&descSize=16&descColor=d0cdff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0A3D62,1565A0,1A7BB5&height=200&section=header&text=Hi%2C%20I'm%20Sanskriti%20Bansal%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=MS%20CS%20(ML%20Track)%20%C2%B7%20Columbia%20University%20%C2%B7%20New%20York&descAlignY=58&descSize=16&descColor=a8d4f5)
 
 *I build things at the intersection of **machine learning** and **software engineering** —*
 *from medical image segmentation research to malware detectors to full-stack apps.*
@@ -56,7 +56,7 @@
 
 ---
 
-## 🔧 Featured projects
+## 🚀 Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -91,4 +91,4 @@
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0A3D62,1565A0,1A7BB5&height=100&section=footer)

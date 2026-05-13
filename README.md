@@ -23,7 +23,7 @@
 
 ## 🧰 Skills
 
-**Languages**
+**Languages** &nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -32,22 +32,22 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**ML / AI**
+**ML / AI** &nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Web / Frameworks**
+**Web / Frameworks** &nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Tools & Platforms**
+**Tools & Platforms** &nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
@@ -58,12 +58,32 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Cross-Domain Medical Segmentation](https://github.com/sb-0709/Cross-Domain-Generalization-in-Medical-Image-Segmentation) | Generalization research for medical image segmentation across unseen domains | Python · PyTorch · Deep Learning |
-| [Malware Detection Model](https://github.com/sb-0709/Malware-Detection-Model) | ML-based malware classifier trained on behavioral features | Jupyter · Sklearn |
-| [Formly — AI Gym Coach](https://github.com/LogicalVerse/Formly-AI-Gym-Bro) | Android app using CV to analyze workout form in real time | Kotlin · AI |
-| [Flight Booking App](https://github.com/sb-0709/Flight-Booking-App) | Full-stack flight booking system with seat selection & reservations | C# · .NET |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sb-0709/Cross-Domain-Generalization-in-Medical-Image-Segmentation">🔬 Cross-Domain Medical Segmentation</a></h3>
+      <p>Generalization research for medical image segmentation across unseen domains.</p>
+      <p><code>Python</code> <code>PyTorch</code> <code>Deep Learning</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sb-0709/Malware-Detection-Model">🛡️ Malware Detection Model</a></h3>
+      <p>ML-based malware classifier trained on behavioral features.</p>
+      <p><code>Jupyter</code> <code>Sklearn</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LogicalVerse/Formly-AI-Gym-Bro">💪 Formly — AI Gym Coach</a></h3>
+      <p>Android app using computer vision to analyze workout form in real time.</p>
+      <p><code>Kotlin</code> <code>AI</code> <code>Computer Vision</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sb-0709/Flight-Booking-App">✈️ Flight Booking App</a></h3>
+      <p>Full-stack flight booking system with seat selection & reservations.</p>
+      <p><code>C#</code> <code>.NET</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -71,11 +91,18 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sb-0709&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sb-0709&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sb-0709&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://streak-stats.demolab.com/?user=sb-0709&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=sb-0709&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 </div>
 

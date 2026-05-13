@@ -133,4 +133,4 @@ I enjoy building at the intersection of **machine learning** and **software engi
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=1565A0&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=024796&height=100&section=footer)
